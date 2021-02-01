@@ -21,4 +21,4 @@ python slices_select_main.py
 ```
 
 # Data and Code Availability Statement
-See data and code availability statement file for details
+See [Data_and_Code_Availability_Statement.pdf](./Data_and_Code_Availability_Statement.pdf) file for details
